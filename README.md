@@ -147,8 +147,7 @@ Los resultados de la ejecucion se muestran a continuacion en el orden que se des
 
 Evidencias
 
-Repositorio github: https://github.com/Gustavo-MA/
-
+Repositorio github: https://github.com/Gustavo-MA/Apertura-puertas-reconocimiento-facial
 Créditos
 
 Desarrollado por Gustavo Medina e-mail: gustavo.medina@uaem.edu.mx
