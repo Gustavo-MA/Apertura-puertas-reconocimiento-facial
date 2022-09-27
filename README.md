@@ -84,6 +84,9 @@ El resultado del analisis es:
 ...........................................................................................
 
 Para la comparacion de 2 rostro se realiza la misma importacion y se descargan 2 imagenes diferentes y 2 iguales en mi casodescargue las imagenes que se muestran en mi carpeta Faces(Dentro de este repositorio):
+
+![image](https://user-images.githubusercontent.com/111370930/192600138-8464584b-4648-403c-ac71-1190ec67ec7e.png)
+
 Se importa el paquete result
 y con la instruccion verify, se procede a poner las 2 rtas donde se encuentran los rostros en mi caso Mee, Hugo con extencion *.jpeg., como se muestra en el siguiente codigo:
 
