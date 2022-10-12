@@ -2,6 +2,9 @@
 import random
 import time
 from paho.mqtt import client as mqtt_client
+
+
+#Datos del broker
 broker = '3.120.0.43'
 port = 1883
 topic = "codigoIoT/python/mqtt"
